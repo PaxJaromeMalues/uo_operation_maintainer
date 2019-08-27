@@ -2,7 +2,7 @@
     <a href="https://github.com/PaxJaromeMalues/uo_operation_maintainer/releases/latest">
         <img src="https://img.shields.io/badge/Version-0.0.1-red.svg" alt="Version">
     </a>
-	<a href="https://github.com/dklollol/Olsen-Framework-Arma-3/releases/tag/3.3.3">
+	<a href="https://github.com/dklollol/Olsen-Framework-Arma-3/releases/tag/v3.3.3">
         <img src="https://img.shields.io/badge/OFW-3.3.3-blue.svg" alt="OFW">
     </a>
     <a href="https://github.com/PaxJaromeMalues/uo_operation_maintainer/issues">
